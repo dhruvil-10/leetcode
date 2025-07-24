@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/dhruvil-10/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/dhruvil-10/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/dhruvil-10/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/dhruvil-10/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dhruvil-10/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/dhruvil-10/leetcode/tree/master/1013-fibonacci-number) |
@@ -43,4 +44,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/dhruvil-10/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/dhruvil-10/leetcode/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
