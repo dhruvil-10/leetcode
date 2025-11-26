@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhruvil-10/leetcode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/dhruvil-10/leetcode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,5 +50,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/dhruvil-10/leetcode/tree/master/0088-merge-sorted-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhruvil-10/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/dhruvil-10/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
