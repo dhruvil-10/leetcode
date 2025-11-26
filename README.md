@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhruvil-10/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/dhruvil-10/leetcode/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/dhruvil-10/leetcode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/dhruvil-10/leetcode/tree/master/0014-longest-common-prefix) |
 | [0168-excel-sheet-column-title](https://github.com/dhruvil-10/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dhruvil-10/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhruvil-10/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dhruvil-10/leetcode/tree/master/0088-merge-sorted-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dhruvil-10/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
