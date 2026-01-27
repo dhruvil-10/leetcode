@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dhruvil-10/leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/dhruvil-10/leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/dhruvil-10/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/dhruvil-10/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dhruvil-10/leetcode/tree/master/0171-excel-sheet-column-number) |
