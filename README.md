@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/dhruvil-10/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/dhruvil-10/leetcode/tree/master/0136-single-number) |
 | [1920-build-array-from-permutation](https://github.com/dhruvil-10/leetcode/tree/master/1920-build-array-from-permutation) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dhruvil-10/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/dhruvil-10/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dhruvil-10/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/dhruvil-10/leetcode/tree/master/1013-fibonacci-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dhruvil-10/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
 |  |
 | ------- |
