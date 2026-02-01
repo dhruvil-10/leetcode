@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dhruvil-10/leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/dhruvil-10/leetcode/tree/master/0242-valid-anagram) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/dhruvil-10/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dhruvil-10/leetcode/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhruvil-10/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3110-score-of-a-string](https://github.com/dhruvil-10/leetcode/tree/master/3110-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/dhruvil-10/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Two Pointers
 |  |
 | ------- |
