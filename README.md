@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/dhruvil-10/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/dhruvil-10/leetcode/tree/master/0136-single-number) |
 | [1920-build-array-from-permutation](https://github.com/dhruvil-10/leetcode/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/dhruvil-10/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dhruvil-10/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dhruvil-10/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/dhruvil-10/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/dhruvil-10/leetcode/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhruvil-10/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/dhruvil-10/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/dhruvil-10/leetcode/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/dhruvil-10/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Two Pointers
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/dhruvil-10/leetcode/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/dhruvil-10/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Enumeration
 |  |
 | ------- |
