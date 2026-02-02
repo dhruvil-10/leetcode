@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/dhruvil-10/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/dhruvil-10/leetcode/tree/master/0136-single-number) |
 | [1920-build-array-from-permutation](https://github.com/dhruvil-10/leetcode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/dhruvil-10/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhruvil-10/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/dhruvil-10/leetcode/tree/master/2942-find-words-containing-character) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dhruvil-10/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/dhruvil-10/leetcode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/dhruvil-10/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhruvil-10/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Enumeration
 |  |
