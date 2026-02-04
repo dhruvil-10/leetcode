@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/dhruvil-10/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/dhruvil-10/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/dhruvil-10/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/dhruvil-10/leetcode/tree/master/0169-majority-element) |
 | [1920-build-array-from-permutation](https://github.com/dhruvil-10/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dhruvil-10/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhruvil-10/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dhruvil-10/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/dhruvil-10/leetcode/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/dhruvil-10/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/dhruvil-10/leetcode/tree/master/0242-valid-anagram) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/dhruvil-10/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dhruvil-10/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/dhruvil-10/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/dhruvil-10/leetcode/tree/master/0242-valid-anagram) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dhruvil-10/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Trie
@@ -131,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dhruvil-10/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dhruvil-10/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dhruvil-10/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
