@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/dhruvil-10/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/dhruvil-10/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dhruvil-10/leetcode/tree/master/0169-majority-element) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dhruvil-10/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/dhruvil-10/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dhruvil-10/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhruvil-10/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dhruvil-10/leetcode/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dhruvil-10/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
