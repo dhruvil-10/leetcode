@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhruvil-10/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/dhruvil-10/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/dhruvil-10/leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvil-10/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/dhruvil-10/leetcode/tree/master/0088-merge-sorted-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dhruvil-10/leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/dhruvil-10/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/dhruvil-10/leetcode/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhruvil-10/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvil-10/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dhruvil-10/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
