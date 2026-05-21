@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dhruvil-10/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dhruvil-10/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhruvil-10/leetcode/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/dhruvil-10/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dhruvil-10/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/dhruvil-10/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dhruvil-10/leetcode/tree/master/1929-concatenation-of-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dhruvil-10/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhruvil-10/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dhruvil-10/leetcode/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/dhruvil-10/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/dhruvil-10/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruvil-10/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/dhruvil-10/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
