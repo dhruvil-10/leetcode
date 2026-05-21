@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvil-10/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/dhruvil-10/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/dhruvil-10/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvil-10/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/dhruvil-10/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhruvil-10/leetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvil-10/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvil-10/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruvil-10/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvil-10/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
