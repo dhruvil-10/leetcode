@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dhruvil-10/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhruvil-10/leetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvil-10/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/dhruvil-10/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dhruvil-10/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/dhruvil-10/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dhruvil-10/leetcode/tree/master/1929-concatenation-of-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dhruvil-10/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dhruvil-10/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvil-10/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/dhruvil-10/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/dhruvil-10/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/dhruvil-10/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/dhruvil-10/leetcode/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhruvil-10/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/dhruvil-10/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhruvil-10/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/dhruvil-10/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/dhruvil-10/leetcode/tree/master/3110-score-of-a-string) |
